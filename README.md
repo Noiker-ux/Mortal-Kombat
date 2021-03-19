@@ -1,2 +1,3 @@
-# Mortal-Kombat
-Mortal Kombat
+# Mortal-Kombat - учебный проект
+Выполнил проект - Вьюгин Александр
+Технологии
